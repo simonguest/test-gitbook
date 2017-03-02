@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+  * [Test article](test-article.md)
   * [Another article](another-article.md)
-* [First Chapter](chapter1.md)
-* [Test article](test-article.md)
+* [3rd article](2nd-article.md)
 
